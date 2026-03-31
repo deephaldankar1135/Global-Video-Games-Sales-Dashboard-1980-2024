@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing **44 years** of video game industry data, covering sales trends, genres, platforms, publishers, and the relationship between critic scores and sales.
 
-![Dashboard Preview]
+## 📸 Dashboard Preview
 https://github.com/deephaldankar1135/Global-Video-Games-Sales-Dashboard-1980-2024/blob/main/Screenshot%202026-03-28%20205105.png Image
 https://github.com/deephaldankar1135/Global-Video-Games-Sales-Dashboard-1980-2024/blob/main/VG.pbix Dashboard
 
